@@ -12,6 +12,12 @@ First, install Prettier locally:
 npm install --save-dev --save-exact prettier
 ```
 
+<!--pnpm-->
+
+```bash
+pnpm install --save-dev --save-exact prettier
+```
+
 <!--yarn-->
 
 ```bash
